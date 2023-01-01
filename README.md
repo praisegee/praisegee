@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/praisegee"><img alt="PraiseGod's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=praisegee&custom_title=PraiseGod's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/praisegee"><img alt="PraiseGod's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=praisegee&custom_title=PraiseGod's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
   
   
