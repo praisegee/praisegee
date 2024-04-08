@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/praisegee"><img alt="PraiseGod's Activity Graph" src=https://github-readme-activity-graph.vercel.app/graph?username=praisegee&bg_color=d9b4c8&color=94148c&line=d129c6&point=610000&area=true&hide_border=true /></a>
+   <a href="https://github.com/praisegee"><img alt="PraiseGod's Activity Graph" src=https://github-readme-activity-graph.vercel.app/graph?username=praisegee&bg_color=080c44&color=5c6df0&line=13c331&point=f7f7f7&area=true&hide_border=true /></a>
   <br/>
   
   
