@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Go](https://img.shields.io/badge/-GoLang-05122A?style=flat&logo=go)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=aws)&nbsp;
 <!-- ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) -->
 <!-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) -->
 <!-- ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) -->
@@ -61,7 +62,7 @@ Here are some ideas to get you started:
 
 <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/praisegee"><img alt="PraiseGod's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=praisegee&custom_title=PraiseGod's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/praisegee"><img alt="PraiseGod's Activity Graph" src=https://github-readme-activity-graph.vercel.app/graph?username=praisegee&bg_color=d9b4c8&color=94148c&line=d129c6&point=610000&area=true&hide_border=true /></a>
   <br/>
   
   
